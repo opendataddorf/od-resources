@@ -1,3 +1,11 @@
-# od-resources
+# Unterstützungs-Repository zum Open-Data-Portal Düsseldorf
 
-ähnlich wie od-ms möchte ich ausprobieren uob und wie hier daten gespeichert werden können, sofern kein eigener öffentlicher webspace dafür bereitsteht.
+## Allgemeiner Hinweis
+In diesem Repository hinterlegen und bearbeiten wir einzelne Daten für das Open-Data-Portal Düsseldorf (https://opendata.duesseldorf.de).
+Die Daten des Portals stehen grundsätzlich unter der Datenlizenz Deutschland – Zero – Version 2.0 (https://www.govdata.de/dl-de/zero-2-0). Sollte im Einzelfall etwas anderes gegeben sein, wird dies aus der jeweiligen DAtensatzbeschreibung im Portal angegeben.
+
+## Daten
+
+### Fallzahlen COVID-19 in Düsseldorf
+* Lizenz: Datenlizenz Deutschland – Zero – Version 2.0
+* Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/covid-19-infektionen-d%C3%BCsseldorf
