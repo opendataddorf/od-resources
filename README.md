@@ -7,5 +7,5 @@ Die Daten des Portals stehen grundsätzlich unter der Datenlizenz Deutschland �
 ## Daten
 
 ### Fallzahlen COVID-19 in Düsseldorf
-* Lizenz: Datenlizenz Deutschland – Zero – Version 2.0
+* Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
 * Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/covid-19-infektionen-d%C3%BCsseldorf
