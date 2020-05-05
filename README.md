@@ -2,7 +2,7 @@
 
 ## Allgemeiner Hinweis
 In diesem Repository hinterlegen und bearbeiten wir einzelne Daten für das Open-Data-Portal Düsseldorf (https://opendata.duesseldorf.de).
-Die Daten des Portals stehen grundsätzlich unter der Datenlizenz Deutschland – Zero – Version 2.0 (https://www.govdata.de/dl-de/zero-2-0). Sollte im Einzelfall etwas anderes gegeben sein, wird dies aus der jeweiligen Datensatzbeschreibung im Portal angegeben.
+Die Daten des Portals stehen grundsätzlich unter der Datenlizenz Deutschland – Zero – Version 2.0 (https://www.govdata.de/dl-de/zero-2-0). Sollte im Einzelfall eine andere Lizenz gelten, wird dies in der jeweiligen Datensatzbeschreibung im Portal angegeben.
 
 ## Daten
 
