@@ -15,3 +15,8 @@ Die Daten des Portals stehen grundsätzlich unter der [Datenlizenz Deutschland �
 * Datei: Rheinpegel_Rhein 2020.csv
 * Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
 * Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/t%C3%A4gliche-wasserst%C3%A4nde-des-rheins-bei-d%C3%BCsseldorf-den-monaten-seit-1996
+
+### Wasserstand des Rheins bei Düsseldorf in den Monaten seit 1996
+* Datei: Wasserstand des Rheins bei Düsseldorf monatlich ab 1996.csv
+* Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
+* Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/wasserstand-des-rheins-bei-d%C3%BCsseldorf
