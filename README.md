@@ -6,6 +6,11 @@ Die Daten des Portals stehen grundsätzlich unter der [Datenlizenz Deutschland �
 
 ## Daten
 
+### Impfzahlen COVID-19 in Düsseldorf
+* Datei: Impfungen_Duesseldorf.csv
+* Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
+* Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/covid-19-impfungen-d%C3%BCsseldorf
+
 ### Fallzahlen COVID-19 in Düsseldorf
 * Datei: COVID_Duesseldorf.csv
 * Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
