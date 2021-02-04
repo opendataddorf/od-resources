@@ -1,4 +1,4 @@
-Datum, Aktueller Tag mobil,davon 1. Impfung,davon 2. Impfung, Aktueller Tag Impfstelle,davon 1. Impfung,davon 2. Impfung, Aktueller Tag Gesamt,davon 1. Impfung,davon 2. Impfung,Gesamt mobil,Gesamt mobil davon 1. Impfung,Gesamt mobil davon 2. Impfung,Gesamt Impfstelle,davon 1. Impfung,davon 2. Impfung,Gesamt Impfungen,davon 1. Impfung,davon 2. Impfung
+Datum, Aktueller Tag mobil, Aktueller Tag mobil 1. Impfung, Aktueller Tag mobil 2. Impfung, Aktueller Tag Impfstelle, Aktueller Tag Impfstelle 1. Impfung, Aktueller Tag Impfstelle 2. Impfung, Aktueller Tag Gesamt, Aktueller Tag Gesamt 1. Impfung, Aktueller Tag Gesamt 2. Impfung,Gesamt mobil,Gesamt mobil 1. Impfung,Gesamt mobil 2. Impfung,Gesamt Impfstelle,Gesamt Impfstelle 1. Impfung,Gesamt Impfstelle 2. Impfung,Gesamt Impfungen,Gesamt Impfungen 1. Impfung,Gesamt Impfungen 2. Impfung
 27.12.2020,180,,,,,,,,,180,,,,,,,,
 28.12.2020,,,,,,,,,,,,,,,,,,
 29.12.2020,422,,,,,,,,,602,,,,,,,,
@@ -37,3 +37,4 @@ Datum, Aktueller Tag mobil,davon 1. Impfung,davon 2. Impfung, Aktueller Tag Impf
 31.01.2021,,462,268,,0,0,730,462,268,,13121,5256,,78,0,18455,13199,5256
 01.02.2021,,298,370,,61,,729,359,370,,13414,5631,,139,0,19184,13553,5631
 02.02.2021,,900,31,,30,,961,930,31,,14314,5662,,169,0,20145,14483,5662
+03.02.2021,,625,346,,75,,1046,700,346,,14939,6008,,244,0,21191,15183,5008
