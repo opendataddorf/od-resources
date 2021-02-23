@@ -16,8 +16,8 @@ Die Daten des Portals stehen grundsätzlich unter der [Datenlizenz Deutschland �
 * Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
 * Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/covid-19-infektionen-d%C3%BCsseldorf
 
-### Täglicher Pegelstand des Rheins für das Jahr 2020
-* Datei: Rheinpegel_Rhein 2020.csv
+### Täglicher Pegelstand des Rheins für das Jahr 2021
+* Datei: Rheinpegel_Tag 2021.csv
 * Lizenz: [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0)
 * Datensatzbeschreibung: https://opendata.duesseldorf.de/dataset/t%C3%A4gliche-wasserst%C3%A4nde-des-rheins-bei-d%C3%BCsseldorf-den-monaten-seit-1996
 
