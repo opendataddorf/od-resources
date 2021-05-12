@@ -1,4 +1,4 @@
-Datum, Aktueller Tag mobil, Aktueller Tag mobil 1. Impfung, Aktueller Tag mobil 2. Impfung, Aktueller Tag Impfstelle, Aktueller Tag Impfstelle 1. Impfung, Aktueller Tag Impfstelle 2. Impfung, Aktueller Tag Gesamt, Aktueller Tag Gesamt 1. Impfung, Aktueller Tag Gesamt 2. Impfung,Gesamt mobil,Gesamt mobil 1. Impfung,Gesamt mobil 2. Impfung,Gesamt Impfstelle,Gesamt Impfstelle 1. Impfung,Gesamt Impfstelle 2. Impfung,Gesamt Impfungen,Gesamt Impfungen 1. Impfung,Gesamt Impfungen 2. Impfung
+Datum, Aktueller Tag mobil, Aktueller Tag mobil 1. Impfung, Aktueller Tag mobil 2. Impfung, Aktueller Tag Impfstelle, Aktueller Tag Impfstelle 1. Impfung, Aktueller Tag Impfstelle 2. Impfung, Aktueller Tag Gesamt, Aktueller Tag Gesamt 1. Impfung, Aktueller Tag Gesamt 2. Impfung,Gesamt mobil,Gesamt mobil 1. Impfung,Gesamt mobil 2. Impfung,Gesamt Impfstelle,Gesamt Impfstelle 1. Impfung,Gesamt Impfstelle 2. Impfung,Gesamt Impfungen,Gesamt Impfungen 1. Impfung,Gesamt Impfungen 2. Impfung,Gesamtimpfungen Arztpraxen ,Gesamtimpfungen Arztpraxen  1. Impfung,Gesamtimpfungen Arztpraxen  2. Impfung
 27.12.2020,180,,,,,,,,,180,,,,,,,,
 28.12.2020,,,,,,,,,,,,,,,,,,
 29.12.2020,422,,,,,,,,,602,,,,,,,,
@@ -132,5 +132,6 @@ Datum, Aktueller Tag mobil, Aktueller Tag mobil 1. Impfung, Aktueller Tag mobil 
 06.05.2021,,192,0,,0,0,192,192,0,,28895,22718,,126152,28866,206631,155047,51584
 07.05.2021,,263,12,,2155,2152,4582,2418,2164,,29158,22730,,128307,31018,211213,157465,53748
 08.05.2021,,0,0,,2469,2155,4624,2469,2155,,29158,22730,,130773,33176,215837,159931,55906
-09.05.2021,,0,0,,2900,1402,4302,2900,1402,,29158,22730,,133673,34578,220139,162831,57308
-10.05.2021,,42,41,,1514,1299,2896,1556,1340,,29200,22771,,135187,35877,223035,164387,58648
+09.05.2021,,0,0,,2900,1402,4302,2900,1402,,29158,22730,,133673,34578,220139,162831,57308,56010,53872,2138
+10.05.2021,,42,41,,1514,1299,2896,1556,1340,,29200,22771,,135187,35877,223035,164387,58648,59319,56914,2405
+11.05.2021,,114,119,,0,0,233,114,119,,29314,22890,,135187,35877,223268,164501,58767,61956,59337,2619
